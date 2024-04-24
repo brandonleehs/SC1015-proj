@@ -2,7 +2,7 @@
 This is the SC1015 mini project for Team2, Lab Group FCEE
 
 ## About
-We will be focusing within the realm of heart disease and its associated diagnostic biomarkers for our project.\
+We will be focusing on the realm of heart disease and its associated diagnostic biomarkers for our project.\
 We will be utilising the [Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) by David Lapp on Kaggle for our project purposes.
 
 ## Problem definition
