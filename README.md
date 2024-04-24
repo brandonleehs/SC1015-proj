@@ -43,7 +43,9 @@ We will also explore whether attaining an extremely high accuracy with our machi
 ## Contributors
 
 @brandleehs (Lee Heng Sheng, Brandon) - Logistic Regression, data extraction, eda, conclusion
+
 @alanlelmn (Alan Lee Leman) - Random Forest, data extraction, eda, conclusion
+
 @27July (Wee Zi Hao (Huang Zihao))- Decision Tree, data extraction, eda, conclusion
 
 ## References
