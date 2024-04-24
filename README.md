@@ -37,6 +37,10 @@ We will also explore whether attaining an extremely high accuracy with our machi
 
 ## Contributors
 
+@brandleehs - Logistic Regression, data extraction, eda, conclusion
+@alanlelmn - Random Forest, data extraction, eda, conclusion
+@27July - Decision Tree, data extraction, eda, conclusion
+
 ## References
 - Hair, J., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2016). A primer on partial least squares structural equation modeling (PLS-SEM) (2nd ed.). SAGE Publications.
 - Yap, L. B., Arshad, W., Jain, A., Kurbaan, A. S., & Garvie, N. W. (2005). Significance of ST depression during exercise treadmill stress and adenosine infusion myocardial perfusion imaging. The international journal of cardiovascular imaging, 21(2-3), 253–260. https://doi.org/10.1007/s10554-004-2458-y
