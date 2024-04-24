@@ -10,12 +10,12 @@ Given diagnostic biomarkers for a patient, are we able to accurately identify if
 
 ## Project Walkthrough
 For a detailed walkthrough of our project, we recommend viewing our notebooks in the following order
-[data-extraction-and-cleaning] (https://github.com/brandonleehs/SC1015-proj/blob/cvd/data-extraction-and-cleaning.ipynb)
-[data-visualisation-and-eda] (https://github.com/brandonleehs/SC1015-proj/blob/cvd/data-visualisation-and-eda.ipynb)
-[decision-tree] (https://github.com/brandonleehs/SC1015-proj/blob/cvd/decision-tree.ipynb)
-[random-forest] (https://github.com/brandonleehs/SC1015-proj/blob/cvd/random-forest.ipynb)
-[logistic-regression] (https://github.com/brandonleehs/SC1015-proj/blob/cvd/logistic-regression.ipynb)
-[conclusion] (To Be Added)
+[data-extraction-and-cleaning](https://github.com/brandonleehs/SC1015-proj/blob/cvd/data-extraction-and-cleaning.ipynb)
+[data-visualisation-and-eda](https://github.com/brandonleehs/SC1015-proj/blob/cvd/data-visualisation-and-eda.ipynb)
+[decision-tree](https://github.com/brandonleehs/SC1015-proj/blob/cvd/decision-tree.ipynb)
+[random-forest](https://github.com/brandonleehs/SC1015-proj/blob/cvd/random-forest.ipynb)
+[logistic-regression](https://github.com/brandonleehs/SC1015-proj/blob/cvd/logistic-regression.ipynb)
+[conclusion](To Be Added)
 
 Based on our Exploratory Data Analysis, we come up with a few hypothesis on what may be important predictors of heart_disease
 We will compare our hypothesis against the results of what the machine learning models determines are important predictors of heart_disease.
