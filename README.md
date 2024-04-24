@@ -17,10 +17,21 @@ For a detailed walkthrough of our project, we recommend viewing our notebooks in
 5. [logistic-regression](https://github.com/brandonleehs/SC1015-proj/blob/cvd/logistic-regression.ipynb)
 6. [conclusion](To Be Added)
 
+## Models Used
+1. Decision tree
+2. Random forest
+3. Logistic regression
+
 Based on our Exploratory Data Analysis, we come up with a few hypothesis on what may be important predictors of heart_disease\
 We will compare our hypothesis against the results of what the machine learning models determines are important predictors of heart_disease.\
 We will also explore whether attaining an extremely high accuracy with our machine learning models given a patient's diagnostic biomarkers is possible.
 
+## What we learned
+1. Quantile-Quantile plots (Q-Q) plots
+2. Random Forest, Logistical Regression
+3. Github
+
 ## Contributors
 
+## References
 
