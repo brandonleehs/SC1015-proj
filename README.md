@@ -29,7 +29,9 @@ We will also explore whether attaining an extremely high accuracy with our machi
 ## What we learned
 1. Quantile-Quantile plots (Q-Q) plots
 2. Random Forest, Logistical Regression
-3. Github
+3. Feature Engineering
+4. Variance Inflation Factor
+5. Github
 
 ## Contributors
 
