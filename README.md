@@ -37,9 +37,9 @@ We will also explore whether attaining an extremely high accuracy with our machi
 
 ## Contributors
 
-@brandleehs - Logistic Regression, data extraction, eda, conclusion
-@alanlelmn - Random Forest, data extraction, eda, conclusion
-@27July - Decision Tree, data extraction, eda, conclusion
+@brandleehs (Lee Heng Sheng, Brandon) - Logistic Regression, data extraction, eda, conclusion
+@alanlelmn (Alan Lee Leman) - Random Forest, data extraction, eda, conclusion
+@27July (Wee Zi Hao (Huang Zihao))- Decision Tree, data extraction, eda, conclusion
 
 ## References
 - Hair, J., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2016). A primer on partial least squares structural equation modeling (PLS-SEM) (2nd ed.). SAGE Publications.
