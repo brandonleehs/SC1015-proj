@@ -15,7 +15,7 @@ For a detailed walkthrough of our project, we recommend viewing our notebooks in
 3. [decision-tree](https://github.com/brandonleehs/SC1015-proj/blob/cvd/decision-tree.ipynb)
 4. [random-forest](https://github.com/brandonleehs/SC1015-proj/blob/cvd/random-forest.ipynb)
 5. [logistic-regression](https://github.com/brandonleehs/SC1015-proj/blob/cvd/logistic-regression.ipynb)
-6. [conclusion](To Be Added)
+6. [conclusion](https://github.com/brandonleehs/SC1015-proj/blob/cvd/conclusion.ipynb)
 
 ## Models Used
 1. Decision tree
